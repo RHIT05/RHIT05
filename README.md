@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-![(c) You can have a scooter when you pay for it yourself, and (d) if you can't learn to start a new thread rather than responding to an old one, you'll be banned. [thread locked by moderator]](https://imgs.xkcd.com/comics/message_boards.png)
-
-Digital Photos Too.
-
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -48,17 +43,13 @@ XNGayrRdH52AAxhuP9fGDOx/q4+skq+PNC6P5d7ZVL+ac9galnrhVPZ44oG4+cU=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-<!--
-**RHIT05/RHIT05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on resting.
+- 🌱 I’m currently learning as much as I can.
+- 👯 I’m looking to collaborate on anything anyone needs help with that I can 
+- 🤔 I’m looking for help with everything I don't know.
+- 💬 Ask me about: Turtle Island
+- 📫 How to reach me: Turtle Island
+- 😄 Pronouns: anyones you feel comfortable using. I want to make you comortable not me.
+- ⚡ Fun fact: Santa Claus is coming to town.
